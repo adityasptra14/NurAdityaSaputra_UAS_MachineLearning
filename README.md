@@ -19,6 +19,7 @@ pada Dataset Iris.
 - decision_tree_iris.py : Source code Python
 - decision_tree_iris.png : Visualisasi Decision Tree
 - Laporan UAS Machine Learning_Nur Aditya Saputra_231011403481 : Laporan UAS
+- Kartu UAS.pdf : Kartu Ujian Akhir Semester
 
 ## Cara Menjalankan Program
 ```bash
